@@ -40,7 +40,7 @@ A modern web application built with Vue.js for managing warehouse inventory with
    ```bash
    go run /cmd/api/main.go
    ```
-5. Change direktory to `/frontend` to run front end server:
+5. Change directory to `/frontend` to run front end server:
 
    ```bash
    cd frontend
@@ -60,8 +60,6 @@ A modern web application built with Vue.js for managing warehouse inventory with
    ```bash
    npm run dev
    ```
-9. d
-
 
 ## API Documentation
 
@@ -88,7 +86,6 @@ Response (200 OK):
     "updated_at": "2025-03-19T11:37:42.698017864+07:00"
 }
 ```
-
 
 #### Login
 
@@ -236,7 +233,6 @@ Response:
 200 OK (application/csv)
 ```
 
-
 ### Barcode Generation
 
 ```http
@@ -250,28 +246,37 @@ Response:
 ## Screenshots
 
 ##### Register Screen
+
 ![Register Screen](screenshot/Register%20Screen.png)
 
 ##### Login Screen
+
 ![Login Screen](screenshot/Login%20Screen.png)
 
 ##### Create Product Screen
+
 ![Create Product Screen](screenshot/Create%20Product%20Screen.png)
 
 ##### Product List Screen
+
 ![List Products Screen](screenshot/List%20Products%20Screen.png)
 
 ##### Product Detail Screen
+
 ![Detail Product Screen](screenshot/Detail%20Product%20Screen.png)
 
 ##### Product Edit Screen
+
 ![Edit Product Screen](screenshot/Edit%20Product%20Screen.png)
 
 ##### Generate Barcode Screen
+
 ![Generate Barcode Screen](screenshot/Generate%20Barcode%20Screen.png)
 
 ##### Export To CSV Screen
+
 ![Export To CSV Screen](screenshot/Export%20To%20CSV%20Screen.png)
 
 ##### Delete Screen
+
 ![Delete Produk Screen](screenshot/Delete%20Produk%20Screen.png)
