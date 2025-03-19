@@ -1,6 +1,6 @@
 # Inventory Management System
 
-A modern web application built with Vue.js for managing warehouse inventory with real-time CRUD operations and authentication.
+A modern web application built with Golang And Vue.js for managing warehouse inventory with real-time CRUD operations and authentication.
 
 ## Features
 
